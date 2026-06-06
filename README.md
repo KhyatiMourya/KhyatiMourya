@@ -1,6 +1,7 @@
-### 🛡️ Crucible Security &nbsp;|&nbsp; 🎓 campusOS &nbsp;|&nbsp; ⚡ MERN Stack Dev
 
-*3rd Year CS Student · Backend Enthusiast · Hackathon Builder · DSA Practitioner*
+### 3rd Year Student &nbsp;|&nbsp; 🎓  Backend Enthusiast &nbsp;|&nbsp; ⚡ MERN Stack Dev
+
+*3rd Year CS Student · Backend Learner · Hackathon Builder · DSA Practitioner*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khyati-mourya-01kt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/khyatii._1)
