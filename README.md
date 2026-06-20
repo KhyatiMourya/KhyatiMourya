@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khyati Mourya</h1>
+<h1 align="center">I'm Khyati Mourya</h1>
 <h3 align="center">3rd Year Student | 🎓 Backend Enthusiast | ⚡ MERN Stack Dev</h3>
 <h4 align="center">3rd Year CS Student · Backend Learner · Hackathon Builder · DSA Practitioner</h4>
 
