@@ -1,28 +1,28 @@
+<h1 align="center">Hi 👋, I'm Khyati Mourya</h1>
+<h3 align="center">3rd Year Student | 🎓 Backend Enthusiast | ⚡ MERN Stack Dev</h3>
+<h4 align="center">3rd Year CS Student · Backend Learner · Hackathon Builder · DSA Practitioner</h4>
 
-### 3rd Year Student &nbsp;|&nbsp; 🎓  Backend Enthusiast &nbsp;|&nbsp; ⚡ MERN Stack Dev
-
-*3rd Year CS Student · Backend Learner · Hackathon Builder · DSA Practitioner*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khyati-mourya-01kt)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/khyatii._1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khyati1mourya@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=KhyatiMourya&color=58a6ff&style=flat-square&label=profile+views)](https://github.com/KhyatiMourya)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/khyati-mourya-01kt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:khyati1mourya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Khyati_Mourya/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://komarev.com/ghpvc/?username=khyatimourya&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 What I'm Building
+### 🚀 What I'm Building
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛡️ **Crucible Security** | AI-powered cybersecurity platform for intelligent threat detection | `React` `Node.js` `MongoDB` `ML` |
-| 🎓 **campusOS** | Student productivity & academic management system | `MERN` `Express` `REST API` |
-| 📊 **DSA Mastery** | Daily LeetCode grind — Trees, Graphs, DP in Java | `Java` `Algorithms` |
+| 🛡️ **Crucible Security** | AI-powered cybersecurity platform for intelligent threat detection | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| 🎓 **campusOS** | Student productivity & academic management system | ![MERN](https://img.shields.io/badge/-MERN-61DAFB?style=flat) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=postman&logoColor=white) |
+| 📊 **DSA Mastery** | Daily LeetCode grind — Trees, Graphs, DP in Java | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Algorithms](https://img.shields.io/badge/-Algorithms-3776AB?style=flat) |
 
 ---
 
-## 🌱 Currently Levelling Up
+### 🌱 Currently Levelling Up
 
 ```text
 DSA in Java         ████████████░░░░  Grinding daily
@@ -32,62 +32,69 @@ Backend Systems     ███████████░░░░░  Scaling up
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 **Frontend**
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-EJS-A91E50?style=flat-square&logo=ejs&logoColor=white" />
+</p>
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+</p>
 
 **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=KhyatiMourya&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhyatiMourya&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=khyatimourya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyatimourya&layout=compact&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KhyatiMourya&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff"/>
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khyatimourya&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
+### ✍️ Dev Quote of the Day
 
-⚡ *I turn hackathon ideas into real products and solve coding challenges daily.*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-**Let's build something great together →** [khyati1mourya@gmail.com](mailto:khyati1mourya@gmail.com)
+> ⚡ I turn hackathon ideas into real products and solve coding challenges daily.
 
-</div>
+---
+
+<h3 align="center">Let's build something great together 🚀</h3>
+<p align="center">📬 <a href="mailto:khyati1mourya@gmail.com">khyati1mourya@gmail.com</a></p>
 
